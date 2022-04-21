@@ -1,0 +1,4 @@
+kaleido
+cufflinks
+requests
+pandas
